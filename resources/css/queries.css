@@ -140,4 +140,7 @@
   /* .meals-showcase li { width: 100%; } */
   .hero-text-box a:last-child { margin-top: 10px; }
 
+  header,
+  .section-testimonials  { background-attachment: scroll; }
+
 }
